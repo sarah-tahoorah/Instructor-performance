@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:/venvs/edupro_venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "C:/venvs/edupro_venv/Lib/site-packages"
+  ]
+}
