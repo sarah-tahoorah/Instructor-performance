@@ -1,0 +1,31 @@
+CourseID,CourseName,CourseCategory,CourseLevel,CourseRating
+C001,Python Fundamentals,Programming,Beginner,4.7
+C002,Advanced Data Science,Data Science,Advanced,4.8
+C003,Machine Learning Basics,AI,Beginner,4.6
+C004,Deep Learning Mastery,AI,Advanced,4.9
+C005,SQL for Data Analysis,Databases,Beginner,4.5
+C006,Advanced SQL Techniques,Databases,Advanced,4.7
+C007,Web Development 101,Web Development,Beginner,4.4
+C008,Full Stack Development,Web Development,Advanced,4.6
+C009,Cloud Computing Essentials,Cloud,Beginner,4.3
+C010,AWS Advanced Services,Cloud,Advanced,4.5
+C011,Business Intelligence Basics,BI,Intermediate,4.2
+C012,Advanced BI Solutions,BI,Advanced,4.4
+C013,Data Visualization Intro,Analytics,Beginner,4.6
+C014,Interactive Dashboards,Analytics,Intermediate,4.7
+C015,Big Data Fundamentals,Big Data,Intermediate,4.3
+C016,Hadoop & Spark Mastery,Big Data,Advanced,4.5
+C017,Statistics for Data Science,Analytics,Intermediate,4.5
+C018,Neural Networks 101,AI,Intermediate,4.7
+C019,NLP Essentials,AI,Intermediate,4.6
+C020,Time Series Forecasting,Analytics,Advanced,4.8
+C021,Python for Business,Programming,Beginner,4.2
+C022,Data Engineering Fundamentals,Engineering,Intermediate,4.4
+C023,Cloud Architecture,Cloud,Advanced,4.6
+C024,Cybersecurity Basics,Security,Beginner,3.8
+C025,Advanced Analytics,Analytics,Advanced,4.7
+C026,Excel for Data Analysis,Analytics,Beginner,3.9
+C027,Predictive Modeling,Analytics,Intermediate,4.5
+C028,Real-time Analytics,Analytics,Advanced,4.6
+C029,JavaScript Essentials,Programming,Beginner,4.3
+C030,React Advanced Concepts,Programming,Advanced,4.5

@@ -1,0 +1,26 @@
+TeacherID,TeacherName,Age,Gender,Expertise,YearsOfExperience,TeacherRating
+T001,Dr. Ahmed Hassan,45,Male,Data Science,15,4.8
+T002,Dr. Sarah Johnson,38,Female,Machine Learning,12,4.7
+T003,Prof. Michael Brown,52,Male,Statistics,20,4.6
+T004,Dr. Emily Davis,35,Female,Python Programming,8,4.5
+T005,Prof. James Wilson,48,Male,Web Development,14,4.4
+T006,Dr. Lisa Anderson,40,Female,Cloud Computing,10,4.3
+T007,Prof. Robert Taylor,55,Male,Data Visualization,18,4.2
+T008,Dr. Jennifer Lee,36,Female,SQL Databases,9,4.1
+T009,Prof. William Martinez,50,Male,AI Applications,16,4.0
+T010,Dr. Maria Garcia,42,Female,Data Analytics,11,3.9
+T011,Prof. David Chen,47,Male,Business Intelligence,13,3.8
+T012,Dr. Patricia Brown,39,Female,Big Data,10,3.7
+T013,Prof. Christopher Smith,53,Male,Statistics,19,3.6
+T014,Dr. Angela White,34,Female,Python Programming,7,3.5
+T015,Prof. Daniel Johnson,49,Male,Machine Learning,15,3.4
+T016,Dr. Catherine Wilson,38,Female,Data Engineering,9,3.3
+T017,Prof. Matthew Davis,51,Male,Advanced Analytics,17,3.2
+T018,Dr. Rachel Green,37,Female,Data Science,8,3.1
+T019,Prof. Steven Black,54,Male,Web Development,21,3.0
+T020,Dr. Michelle Hall,41,Female,Cloud Computing,12,2.9
+T021,Prof. Kevin Clark,46,Male,AI Applications,14,3.8
+T022,Dr. Amanda Moore,35,Female,Data Visualization,7,4.2
+T023,Prof. Brian Taylor,52,Male,Statistics,18,3.9
+T024,Dr. Sophia Anderson,39,Female,SQL Databases,10,4.4
+T025,Prof. Eric Thomas,48,Male,Machine Learning,13,4.6
